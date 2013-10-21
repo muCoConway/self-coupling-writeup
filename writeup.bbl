@@ -1,0 +1,64 @@
+\begin{thebibliography}{10}
+
+\bibitem{madgraph}
+Johan Alwall, Michel Herquet, Fabio Maltoni, Olivier Mattelaer, and Tim
+  Stelzer.
+\newblock {MadGraph 5: Going Beyond}.
+\newblock {\em JHEP}, 1106:128, 2011.
+
+\bibitem{usmap}
+J.P. Delahaye, C~Ankenbrandt, A~Bogacz, S~Brice, A~Bross, D~Denisov, E~Eichten,
+  P~Huber, D.M. Kaplan, H~Kirk, R~Lipton, D~Neuffer, M.A. Palmer, R~Palmer,
+  R~Ryne, and P~Snopok.
+\newblock Enabling intensity and energy frontier science with a muon
+  accelerator facility in the u.s.
+\newblock 2013.
+\newblock A White Paper submitted to the 2013 U.S. Community Summer Study of
+  the Division of Particles and Fields of the American Physical Society.
+
+\bibitem{goertz}
+Florian Goertz, Andreas Papaefstathiou, Li~Lin Yang, and Jose Zuita.
+\newblock Higgs boson self-coupling measurements using ratios of cross
+  sections.
+\newblock {\em Preprint}, 2013.
+\newblock arXiv:1301.3492v2 [hep-ph].
+
+\bibitem{clic-physics}
+CLIC Physics~Working Group.
+\newblock Physics at the clic multi-tev linear collider.
+\newblock {\em CERN Scientific Information Service}, 2004.
+\newblock arXiv:0412251v1 [hep-ph].
+
+\bibitem{sidloi3}
+Tony Johnson and Jeremy McCormick, 2010.
+\newblock http://www.lcsim.org/detectors/sidloi3.html.
+
+\bibitem{lcsim}
+Tony Johnson, Jeremy McCormick, Norman Graf, and et~al.
+\newblock http://www.lcsim.org/software/lcsim/2.8/index.html.
+
+\bibitem{whizard}
+W.~Kilian, T.~Ohl, and J.~Reuter.
+\newblock Whizard: Simulating multi-particle processes at lhc and ilc.
+\newblock {\em Eur. Physics. J.}, C71, 2011.
+\newblock arXiv:0708.4233 [hep-ph].
+
+\bibitem{pres:jan}
+Tomas Lastovicka and Jan Strube.
+\newblock Measurement of the trilinear higgs self-couping at clic.
+\newblock Accessed online \today at
+  http://ilcagenda.linearcollider.org/getFile.py/access?contribId=66\&sessionId
+  =3\&resId=0\&materialId=slides\&confId=5840.
+
+\bibitem{omega}
+M.~Moretti, T.~Ohl, and J.~Reuter.
+\newblock O'mega: An optimizing matrix element generator.
+\newblock {\em DESY LC Notes}, LC-TOOL-2001-040-rev, arXiv:0102195-rev
+  [hep-ph], 2001.
+
+\bibitem{pythia}
+Torbjorn Sjostrand, Stephen Mrenna, and Peter~Z. Skands.
+\newblock {PYTHIA 6.4 Physics and Manual}.
+\newblock {\em JHEP}, 0605:026, 2006.
+
+\end{thebibliography}

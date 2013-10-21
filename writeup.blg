@@ -1,0 +1,48 @@
+This is BibTeX, Version 0.99d (TeX Live 2013/Arch Linux)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: writeup.aux
+The style file: plain.bst
+Database file #1: bib/writeup.bib
+Warning--empty journal in usmap
+You've used 10 entries,
+            2118 wiz_defined-function locations,
+            550 strings with 5840 characters,
+and the built_in function-call counts, 3225 in all, are:
+= -- 281
+> -- 244
+< -- 0
++ -- 96
+- -- 86
+* -- 227
+:= -- 595
+add.period$ -- 32
+call.type$ -- 10
+change.case$ -- 71
+chr.to.int$ -- 0
+cite$ -- 11
+duplicate$ -- 93
+empty$ -- 196
+format.name$ -- 86
+if$ -- 625
+int.to.chr$ -- 0
+int.to.str$ -- 10
+missing$ -- 7
+newline$ -- 55
+num.names$ -- 20
+pop$ -- 84
+preamble$ -- 1
+purify$ -- 63
+quote$ -- 0
+skip$ -- 73
+stack$ -- 0
+substring$ -- 68
+swap$ -- 9
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 40
+warning$ -- 1
+while$ -- 22
+width$ -- 12
+write$ -- 107
+(There was 1 warning)
