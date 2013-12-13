@@ -1,0 +1,59 @@
+\documentclass[12pt]{article}
+\usepackage{geometry}
+\geometry{letterpaper}
+\pdfoutput=1
+\usepackage[pdftex]{graphicx}
+\DeclareGraphicsExtensions{.png,.pdf,.eps}
+\graphicspath{{./images/}}
+\usepackage{float}
+\usepackage{mathtools}
+\usepackage{caption}
+\usepackage{subcaption}
+\usepackage{multirow}
+\usepackage{amssymb}
+\usepackage{authblk}
+
+\begin{document}
+
+\begin{table}
+	\begin{tabular}{| l | c | c | c |}
+		\hline
+			& CLIC 3TeV	& MuCo 3TeV	& MuCo 6TeV \\ \hline
+		Cross Section (fb)
+			& 0.59		& 0.85		& 2.0		\\ \hline
+		Avg. Luminosity ($10^{34}cm^-2s^-1$)
+			& 5.4		& 4.4		& 12		\\ \hline
+		Total Events per $10^7s$
+			& 2500		& 1800		& 12000		\\ \hline
+		Total Events per $3.7\times 10^7s$
+			& 9250		& 6660		& 44400		\\ \hline
+		Acceptance
+			& 0.26		& 0.24		& 0.16		\\ \hline
+		Total Accepted Events ($N_{acc}$)
+			& 2400		& 1600		& 7100		\\ \hline
+		$\sqrt{N_{acc}}/N_{acc}$
+			& 0.020		& 0.025		& 0.012		\\ \hline
+		$\delta \sigma / \sigma$
+			& 0.10		& 0.13		& 0.06		\\ \hline
+		R
+			& 1.52		& 1.53		& 2.08		\\ \hline
+		$\delta\lambda / \lambda$
+			& 0.15		& 0.20		& 0.12		\\ \hline
+	\end{tabular}
+\end{table}
+
+% Total time calculation:
+%	how long to get 2ab^-1 = 2 10^-42cm^-2 at CLIC?
+%	
+%	L = 5.4 10^34cm^-2s^-1 = 5.4 10^-8ab^-1s^-1
+%   T*L = 2 ab^-1 
+%	T = (2/5.4) 10^8s = 3.7 snomass years
+
+% dsig/sig calculation:
+%	dN/N_muc : dN/N_clic :: dsig/sig_muc : dsig/sig_clic
+%	dsig/sig_clic = 0.1
+%	0.025 : 0.02 :: 0.125 : 0.1 (3TeV)
+%	0.012 : 0.02 :: 0.060 : 0.1 (6TeV)
+
+
+\end{document}
